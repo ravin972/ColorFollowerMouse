@@ -4,9 +4,8 @@
 
 ColorMouseFollower is a simple web project that changes the background color of a rectangle based on the position of the mouse cursor within it. It's built using HTML, CSS, and JavaScript with the GreenSock Animation Platform (GSAP) for smooth animations.
 
-## Live Link
-
-    Visit: [here](https://color-follower-mouse.vercel.app/)
+## Live Link 
+Visit: [here](https://color-follower-mouse.vercel.app/)
     
 
 ## Usage
