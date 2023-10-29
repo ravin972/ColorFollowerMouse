@@ -6,6 +6,8 @@ ColorMouseFollower is a simple web project that changes the background color of 
 
 ## Live Link
 
+    Visit: [here](https://color-follower-mouse.vercel.app/)
+    
 
 ## Usage
 
